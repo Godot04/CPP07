@@ -6,7 +6,7 @@
 /*   By: opopov <opopov@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/20 13:07:04 by opopov            #+#    #+#             */
-/*   Updated: 2026/06/22 16:05:14 by opopov           ###   ########.fr       */
+/*   Updated: 2026/06/22 16:33:18 by opopov           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,6 +19,9 @@
 
 # include <iostream>
 # include <stdexcept>
+
+// # include <cstdlib> // for given main.c
+// # include <ctime> // for given main.c
 
 template <typename T>
 
